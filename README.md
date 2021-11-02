@@ -34,7 +34,6 @@ i tried mobile-first workflow. But then i realized that the desktop/larger-devic
 
 Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
 
-To see how you can add code snippets, see below:
 
 ```html
 <h1>Some HTML code I'm proud of</h1>
@@ -44,8 +43,6 @@ To see how you can add code snippets, see below:
   color: papayawhip;
 }
 ```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
 ## Author
 
